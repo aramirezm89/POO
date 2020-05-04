@@ -33,7 +33,7 @@ namespace POO
 
         public void dividir()
         {
-            if (num1 == 0)
+            if (num2 == 0)
             {
                 Console.WriteLine("Error: No se puede dividir por 0");
             }
